@@ -1,0 +1,23 @@
+{
+  "name": "portfolio-2-",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Onesuch <experts1994@mail.ru>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^4.6.3",
+    "less": "^2.7.1",
+    "gulp": "^3.9.1",
+    "jquery": "^3.1.0"
+  }
+}
